@@ -31,6 +31,8 @@ Hago la utilizacion de la api NBA como tambien librerias como pandas y streamlit
 
         streamlit run app.py
 
+Este proyecto fue subido a https://programacionpartidosnba.streamlit.app/ para su visualización. 
+
 
 .. _pyscaffold-notes:
 
